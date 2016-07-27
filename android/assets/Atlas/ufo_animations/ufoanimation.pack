@@ -1,0 +1,26 @@
+
+ufoanimation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ufo
+  rotate: false
+  xy: 1, 145
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+ufo1
+  rotate: false
+  xy: 1, 73
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+ufo2
+  rotate: false
+  xy: 1, 1
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1

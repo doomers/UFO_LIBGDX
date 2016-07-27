@@ -1,0 +1,33 @@
+
+circle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy
+  rotate: false
+  xy: 1, 1
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 196, 1
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 391, 1
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+enemy4
+  rotate: false
+  xy: 586, 1
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
